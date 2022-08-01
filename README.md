@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @carla3107
-- 👀 I’m interested in  aprender
+- 👋 ola, sou @carla3107
+- 👀 estou interessada em aprender novas linguagens 
 - 🌱 meu email Padilha.carla@escola.pr.gov.br
-- 💞️ pensamento computacional 
-- 📫 How to reach me padilha.carla@escola.pr.gov.br
+- 💞️ estou aprendendo a progamar as linguagens Java script e scratch
 
